@@ -1,1 +1,12 @@
-placehold
+[
+	{
+		"name": "Catacombs of Kom El Shoqafa",
+		"isWonder": true,
+		"culture": 3,
+        "faith": 3,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"cost": 300,
+		"requiredTech": "Construction"
+		"quote": "'The catacombs lie beneath the western necropolis of Alexandria and consist of three levels cut through solid rock.'"
+	}
+]
