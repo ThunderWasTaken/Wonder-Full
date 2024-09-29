@@ -3,10 +3,48 @@
 		"name": "Catacombs of Kom El Shoqafa",
 		"isWonder": true,
 		"culture": 3,
-        "faith": 3,
+		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"cost": 300,
 		"requiredTech": "Construction"
 		"quote": "'The catacombs lie beneath the western necropolis of Alexandria and consist of three levels cut through solid rock.'"
+	},
+	{
+		"name": "Borobudur",
+		"isWonder": true,
+		"culture": 5,
+		"faith": 2,
+		"uniques": ["[+20]% Spread Religion Strength <for [Missionary] units>"]
+		"requiredTech": "Theology"
+		"quote": "'Constructed of gray andesite-like stone, the temple consists of nine stacked platforms, six square and three circular, topped by a central dome.'"
+	},
+	{
+		"name": "House of Wisdom",
+		"isWonder": true,
+		"science": 5,
+		"culture": 2,
+		"greatPersonPoints": {"Great Scientist": 1},
+		"uniques": ["[+10]% [Science] <in this city> <during a Golden Age>"]
+		"requiredTech": "Education"
+		"quote": "'The center of knowledge during the Islamic Golden Age, the House of Wisdom stored many knowledge and intellect.'"
+	},
+	{
+		"name": "Amphitheatrum Flavium",
+		"isWonder": true,
+		"happiness": 2,
+		"culture": 3,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"uniques": ["[+25]% [Happiness] <in this city>"]
+		"requiredTech": "Drama and Poetry"
+		"quote": "'The largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age.'"
+	},
+	{
+		"name": "Great Canal",
+		"isWonder": true,
+		"production": 4,
+		"food": 6,
+		"greatPersonPoints": {"Great Engineer": 3},
+		"uniques": ["Must be next to [Fresh water]", "Must be next to [Coast water]", "Must not be next to [River]", "Must not be next to [Oasis]"]
+		"requiredTech": "Dynamite"
+		"quote": "'A large great canal that connects 2 bodies of water, typically 2 oceans or with a large lake.'"
 	}
 ]
