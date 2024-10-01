@@ -46,5 +46,32 @@
 		"uniques": ["Must be next to [Fresh water]", "Must be next to [Coast water]", "Must not be next to [River]", "Must not be next to [Oasis]"]
 		"requiredTech": "Dynamite"
 		"quote": "'A large great canal that connects 2 bodies of water, typically 2 oceans or with a large lake.'"
+	},
+	{
+		"name": "Golden Gate Bridge",
+		"isWonder": true,
+		"gold": 2,
+		"culture": 4,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"uniques": ["[+1 Gold] per [3] population [in this city]", "Must be next to [River]"]
+		"requiredTech": "Combustion"
+		"quote": "'A large bridge of great engineering that attracts many tourists and visitors. Is not actually made of gold.'"
+	},
+	{
+		"name": "Burj Khalifa",
+		"isWonder": true,
+		"culture": 8,
+		"greatPersonPoints": {"Great Engineer": 4},
+		"requiredTech": "Robotics"
+		"quote": "'The tallest building in the world, with a total height of 829.8 m (2,722 ft, or just over half a mile).'"
+	},
+	{
+		"name": "Three Gorges Dam",
+		"isWonder": true,
+		"production": 6,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"uniques": ["Must be next to [River]", "[+1 Production] per [2] population [in this city]"]
+		"requiredTech": "Electricity"
+		"quote": "'The largest power station in the world, generating great power for all.'"
 	}
 ]
