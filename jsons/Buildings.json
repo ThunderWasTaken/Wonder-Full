@@ -34,7 +34,7 @@
 		"happiness": 2,
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
-		"uniques": ["[+25]% [Happiness] <in this city>", "Gain a free [Amphitheater] [in this city]"]
+		"uniques": ["[+25]% [Happiness] <in this city>", "Gain a free [Colosseum] [in this city]"]
 		"requiredTech": "Drama and Poetry"
 		"quote": "'The largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age.'"
 	},
