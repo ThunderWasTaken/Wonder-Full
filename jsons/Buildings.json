@@ -4,7 +4,7 @@
 		"isWonder": true,
 		"culture": 4,
 		"faith": 2,
-		"happiness": 1,
+		"happiness": 2,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"requiredTech": "Construction"
 		"quote": "'The catacombs lie beneath the western necropolis of Alexandria and consist of three levels cut through solid rock.'"
@@ -24,6 +24,7 @@
 		"science": 5,
 		"culture": 2,
 		"greatPersonPoints": {"Great Scientist": 1},
+		"specialistSlots": {"Scientist": 1},
 		"uniques": ["[+10]% [Science] <in this city> <during a Golden Age>"]
 		"requiredTech": "Education"
 		"quote": "'The center of knowledge during the Islamic Golden Age, the House of Wisdom stored many knowledge and intellect.'"
@@ -71,8 +72,31 @@
 		"isWonder": true,
 		"production": 6,
 		"greatPersonPoints": {"Great Engineer": 2},
+		"specialistSlots": {"Engineer": 2},
 		"uniques": ["Must be next to [River]", "[+1 Production] per [2] population [in this city]", "Gain a free [Hydro Plant] [in this city]"]
 		"requiredTech": "Electricity"
 		"quote": "'The largest power station in the world, generating great power for all.'"
+	},
+	{
+		"name": "The Sphere",
+		"isWonder": true,
+		"culture": 2,
+		"happiness": 2,
+		"maintenance": 5,
+		"greatPersonPoints": {"Great Artist": 5},
+		"uniques": ["[+100]% [Culture] [in this city] <during We Love The King Day>"]
+		"requiredTech": "Lasers"
+		"quote": "'A 18,600-seat auditorium marketed for its immersive video and audio capabilities.'"
+	},
+	{
+		"name": "Large Hadron Collider",
+		"isWonder": true,
+		"science": 10,
+		"production": 10,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"specialistSlots": {"Scientist": 3},
+		"uniques": ["[+100]% [Culture] [in this city] <during We Love The King Day>"]
+		"requiredTech": "Particle Physics"
+		"quote": "'The world's largest and highest-energy particle accelerator.'"
 	}
 ]
