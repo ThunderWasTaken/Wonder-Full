@@ -95,7 +95,6 @@
 		"production": 10,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"specialistSlots": {"Scientist": 3},
-		"uniques": ["[+100]% [Culture] [in this city] <during We Love The King Day>"]
 		"requiredTech": "Particle Physics"
 		"quote": "'The world's largest and highest-energy particle accelerator.'"
 	}
