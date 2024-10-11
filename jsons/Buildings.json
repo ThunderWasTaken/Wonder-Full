@@ -97,5 +97,32 @@
 		"specialistSlots": {"Scientist": 3},
 		"requiredTech": "Particle Physics"
 		"quote": "'The world's largest and highest-energy particle accelerator.'"
+	},
+	{
+		"name": "BRP Sierra Madre",
+		"isWonder": true,
+		"cityStrength": 15,
+		"cityHealth": 30,
+		"uniques": ["Free [Great General] appears", "Must be next to [Coast water]"]
+		"requiredTech": "Electronics"
+		"quote": "'A warship intentionally run aground to serve as an outpost.'"
+	},
+	{
+		"name": "Iron Dome",
+		"isWonder": true,
+		"cityStrength": 20,
+		"cityHealth": 45,
+		"uniques": ["[+100]% Strength <vs [Air] units>"]
+		"requiredTech": "Advanced Ballistics"
+		"quote": "'A mobile all-weather air defense system, practically shredding every plane that comes across it.'"
+	},
+	{
+		"name": "Vegreville Egg",
+		"isWonder": true,
+		"cost": 250,
+		"culture": 5,
+		"uniques": ["Hidden until [2] social policy branches have been completed"]
+		"greatPersonPoints": {"Great Artist": 3},
+		"quote": "'It's just a massive freakin easter egg, what else is to say?'"
 	}
 ]
