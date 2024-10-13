@@ -124,5 +124,40 @@
 		"uniques": ["Hidden until [2] social policy branches have been completed"]
 		"greatPersonPoints": {"Great Artist": 3},
 		"quote": "'It's just a massive freakin easter egg, what else is to say?'"
+	},
+	{
+		"name": "Globe Theatre",
+		"isWonder": true,
+		"culture": 4,
+		"happiness": 4,
+		"percentStatBonus": {"culture": 25},
+		"uniques": ["Only available <if [Theatre] is constructed in all [non-[Puppeted]] cities>"]
+		"greatPersonPoints": {"Great Artist": 4},
+		"requiredTech": "Printing Press"
+		"quote": "'A great theatre that hosts great plays and musicals from world-renowned professionals and legends.'"
+	},
+	{
+		"name": "Potala Palace",
+		"isWonder": true,
+		"faith": 5,
+		"happiness": 2,
+		"culture": 2,
+		"percentStatBonus": {"faith": 20},
+		"uniques": ["Must be on [Hill]", "[+5 Culture] [in this city] <starting from the [Modern era]>"]
+		"greatPersonPoints": {"Great Engineer": 2},
+		"requiredTech": "Gunpowder"
+		"quote": "'A dzong fortress that was the winter palace of the Dalai Lamas. Turned into a museum later after it is no longer used and then a world heritage site.'"
+	},
+	{
+		"name": "Cure to Cancer",
+		"isWonder": true,
+		"science": 10,
+		"happiness": 5,
+		"food": 5,
+		"percentStatBonus": {"happiness": 20},
+		"percentStatBonus": {"food": 25},
+		"greatPersonPoints": {"Great Scientist": 5},
+		"requiredTech": "Nanotechnology"
+		"quote": "'A cure to the most devastating disease known to man, this cure will save the lifes of dozens of millions per day.'"
 	}
 ]
