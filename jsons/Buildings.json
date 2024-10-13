@@ -127,7 +127,7 @@
 	},
 	{
 		"name": "Globe Theatre",
-		"isWonder": true,
+		"isNationalWonder": true,
 		"culture": 4,
 		"happiness": 4,
 		"percentStatBonus": {"culture": 25},
