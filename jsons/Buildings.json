@@ -163,6 +163,7 @@
 	{
 		"name": "Kaaba",
 		"isWonder": true,
+		"cost": 300,
 		"faith": 10,
 		"percentStatBonus": {"faith": 20},
 		"uniques": ["[-25]% Faith cost of generating Great Prophet equivalents", "Only available <after adopting [Organized Religion]>"]
