@@ -159,5 +159,51 @@
 		"greatPersonPoints": {"Great Scientist": 5},
 		"requiredTech": "Nanotechnology"
 		"quote": "'A cure to the most devastating disease known to man, this cure will save the lifes of dozens of millions per day.'"
+	},
+	{
+		"name": "Kaaba",
+		"isWonder": true,
+		"faith": 10,
+		"percentStatBonus": {"faith": 20},
+		"uniques": ["[-25]% Faith cost of generating Great Prophet equivalents", "Only available <after adopting [Organized Religion]>"]
+		"quote": "'The Kaaba was rebuilt several times throughout history, most famously by Ibrahim and his son Ismail, when he returned to the valley of Mecca several years after leaving his wife Hajar and Ismail there upon Allah's command. Circling the Kaaba seven times counterclockwise, known as Tawaf, is a Fard rite for the completion of the Hajj and Umrah pilgrimages.'"
+	},
+	{
+		"name": "Motherland Calls",
+		"isWonder": true,
+		"happiness": 2,
+		"culture": 2,
+		"uniques": ["Earn [10]% of the damage done to [All] units as [Gold]"]
+		"requiredTech": "Ballistics"
+		"quote": "'A colossal neoclassicist and socialist realist war memorial sculpture made to commemorate fallen soldiers.'"
+	},
+	{
+		"name": "Monks Mound",
+		"isWonder": true,
+		"cost": 125,
+		"production": 1,
+		"culture": 1,
+		"happiness": 1,
+		"faith": 1,
+		"gold": 1,
+		"requiredTech": "Agriculture"
+		"quote": "'A large earthwork and apparently also a sort of pyramid.'"
+	},
+	{
+		"name": "Apostolic Palace",
+		"isWonder": true,
+		"faith": 6,
+		"culture": 3,
+		"uniques": ["Gain [100] [Gold] <after generating a Great Prophet>"]
+		"requiredTech": "Metal Casting"
+		"quote": "'A large palace that serves as the home of the leader of the faith.'"
+	},
+	{
+		"name": "Bronze Horseman",
+		"isWonder": true,
+		"culture": 3,
+		"uniques": ["[Great General] is earned [+25]% faster"]
+		"requiredTech": "Rifling"
+		"quote": "'A large bronze statue of a great leader ontop of the largest pedestal in the world.'"
 	}
 ]
