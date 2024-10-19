@@ -10,13 +10,13 @@
 		"quote": "'The catacombs lie beneath the western necropolis of Alexandria and consist of three levels cut through solid rock.'"
 	},
 	{
-		"name": "Borobudur",
+		"name": "Prambanan",
 		"isWonder": true,
 		"culture": 5,
 		"faith": 2,
 		"uniques": ["[+20]% Spread Religion Strength <for [Missionary] units>"]
 		"requiredTech": "Theology"
-		"quote": "'Constructed of gray andesite-like stone, the temple consists of nine stacked platforms, six square and three circular, topped by a central dome.'"
+		"quote": "'A Temple dedicated to the Trimūrti, the expression of God as the Creator (Brahma), the Preserver (Vishnu) and the Destroyer (Shiva).'"
 	},
 	{
 		"name": "House of Wisdom",
@@ -126,7 +126,7 @@
 		"quote": "'It's just a massive freakin easter egg, what else is to say?'"
 	},
 	{
-		"name": "Globe Theatre",
+		"name": "National Theatre",
 		"isNationalWonder": true,
 		"culture": 4,
 		"happiness": 4,
@@ -134,7 +134,7 @@
 		"uniques": ["Only available <if [Theatre] is constructed in all [non-[Puppeted]] cities>"]
 		"greatPersonPoints": {"Great Artist": 4},
 		"requiredTech": "Printing Press"
-		"quote": "'A great theatre that hosts great plays and musicals from world-renowned professionals and legends.'"
+		"quote": "'A great theatre which brings pure happiness to the realm.'"
 	},
 	{
 		"name": "Potala Palace",
