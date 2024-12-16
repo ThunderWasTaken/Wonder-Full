@@ -1,12 +1,12 @@
 
 game.png
-size: 2048, 1024
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Alyosha Monument
   rotate: false
-  xy: 4, 628
+  xy: 712, 1836
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -20,155 +20,169 @@ BuildingIcons/Amphitheatrum Flavium
   index: -1
 BuildingIcons/Apostolic Palace
   rotate: false
-  xy: 212, 628
+  xy: 712, 1628
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/BRP Sierra Madre
   rotate: false
-  xy: 4, 212
+  xy: 920, 1836
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Bronze Horseman
   rotate: false
-  xy: 212, 420
+  xy: 4, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Burj Khalifa
   rotate: false
-  xy: 420, 628
+  xy: 212, 420
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Catacombs of Kom El Shoqafa
   rotate: false
-  xy: 4, 4
+  xy: 712, 1420
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cure to Cancer
   rotate: false
-  xy: 212, 212
+  xy: 920, 1628
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Golden Gate Bridge
   rotate: false
-  xy: 420, 420
+  xy: 1128, 1836
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Canal
   rotate: false
-  xy: 628, 628
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/House of Wisdom
   rotate: false
-  xy: 212, 4
+  xy: 212, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Iron Dome
   rotate: false
-  xy: 420, 212
+  xy: 420, 420
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Kaaba
   rotate: false
-  xy: 628, 420
+  xy: 712, 1212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Large Hadron Collider
   rotate: false
-  xy: 836, 628
+  xy: 920, 1420
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Monks Mound
   rotate: false
-  xy: 420, 4
+  xy: 1128, 1628
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Motherland Calls
   rotate: false
-  xy: 628, 212
+  xy: 1336, 1836
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/National Theatre
   rotate: false
-  xy: 836, 420
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Potala Palace
   rotate: false
-  xy: 1044, 628
+  xy: 420, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Prambanan
   rotate: false
-  xy: 628, 4
+  xy: 712, 1004
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Rushmore
   rotate: false
-  xy: 836, 212
-  size: 200, 200
-  orig: 200, 200
+  xy: 4, 628
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/The Sphere
   rotate: false
-  xy: 1044, 420
+  xy: 920, 1212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Three Gorges Dam
   rotate: false
-  xy: 1252, 628
+  xy: 1128, 1420
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Vegreville Egg
   rotate: false
-  xy: 836, 4
+  xy: 1336, 1628
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wat Phra Kaew
   rotate: false
-  xy: 1044, 212
+  xy: 1544, 1836
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mount Rushmore
+  rotate: false
+  xy: 4, 1336
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Mount Rushmore
+  rotate: false
+  xy: 628, 557
+  size: 64, 63
+  orig: 64, 63
   offset: 0, 0
   index: -1
