@@ -4,7 +4,9 @@
 		"culture": 6,
 		"happiness": 2,
 		"terrainsCanBeBuiltOn": ["Mountain"],
-		"uniques": ["Great Improvement",
+		"uniques": [
+		"Great Improvement", 
+		"Will not be replaced by automated units",
 		"[+1 Happiness, +1 Culture] for each adjacent [Forest]",
 		"[+4 Culture] <after adopting [Freedom Complete]>"],
 	},
