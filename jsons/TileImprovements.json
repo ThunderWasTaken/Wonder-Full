@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Mount Rushmore",
+		"culture": 6,
+		"happiness": 2,
+		"terrainsCanBeBuiltOn": ["Mountain"],
+		"uniques": ["Great Improvement",
+		"[+1 Happiness, +1 Culture] for each adjacent [Forest]",
+		"[+4 Culture] <after adopting [Freedom Complete]>"],
+	},
+]
