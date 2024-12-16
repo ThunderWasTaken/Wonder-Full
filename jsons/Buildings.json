@@ -222,5 +222,12 @@
 		"uniques": ["[+1 Faith, +1 Gold] from [improved] tiles [in this city]"]
 		"requiredTech": "Navigation"
 		"quote": "'A sacred temple located within a royal palace.'"
+	},
+	{
+		"name": "Rushmore",
+		"isWonder": true,
+		"uniques": ["[2] Free Social Policies", "Creates a [Mount Rushmore] improvement on a specific tile", "Only available <after adopting [Freedom]>", "Must have an owned [Mountain] within [2] tiles"]
+		"requiredTech": "Electricity"
+		"quote": "'I want you, Mr. President, to dedicate this memorial as a Shrine to Democracy; to call upon the people of the earth for one hundred thousand years to come to read the thought and to see what manner of men struggled here to establish self-determined government in the western world. Credits to discord user theratinfestation for the code, terrain model, and concept.'"
 	}
 ]
