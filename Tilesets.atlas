@@ -1,0 +1,13 @@
+
+Tilesets.png
+size: 128, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Mount Rushmore
+  rotate: false
+  xy: 4, 4
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
