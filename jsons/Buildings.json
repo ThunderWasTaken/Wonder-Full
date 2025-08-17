@@ -121,7 +121,7 @@
 		"isWonder": true,
 		"cost": 250,
 		"culture": 5,
-		"uniques": ["Hidden until [2] social policy branches have been completed"]
+		"uniques": ["Only available <when number of [Completed Policy branches] is more than [1]>"]
 		"greatPersonPoints": {"Great Artist": 3},
 		"quote": "'It's just a massive freakin easter egg, what else is to say?'"
 	},
