@@ -228,8 +228,17 @@
 		"isWonder": true,
 		"uniques": ["[1] Free Social Policies", "Creates a [Mount Rushmore] improvement on a specific tile", "Only available <after adopting [Freedom]>", "Must have an owned [Mountain] within [2] tiles"],
 		"requiredTech": "Electricity",
-		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Engineer": 1},
 		"greatPersonPoints": {"Great Artist": 2},
 		"quote": "'I want you, Mr. President, to dedicate this memorial as a Shrine to Democracy; to call upon the people of the earth for one hundred thousand years to come to read the thought and to see what manner of men struggled here to establish self-determined government in the western world.'"
+	},
+	{
+		"name": "GTA 6",
+		"isWonder": true,
+		"culture": 4,
+		"uniques": ["[+3 Happiness] [in all cities]"],
+		"requiredTech": "Nuclear Fusion",
+		"greatPersonPoints": {"Great Artist": 4},
+		"quote": "'Holy crap Lois its finally here' -a Family Guy"
 	}
 ]
